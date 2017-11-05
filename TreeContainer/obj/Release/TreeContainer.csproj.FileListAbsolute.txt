@@ -1,0 +1,14 @@
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\bin\Release\TreeContainer.dll
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\bin\Release\TreeContainer.pdb
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\bin\Release\GraphLayout.dll
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\bin\Release\GraphLayout.pdb
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer_MarkupCompile.cache
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer_MarkupCompile.lref
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\Themes\Generic.baml
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer.g.resources
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer.Properties.Resources.resources
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer.csproj.GenerateResource.Cache
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer.dll
+D:\visual studio 2012\Projects\TreeContainer\TreeContainer\obj\Release\TreeContainer.pdb
